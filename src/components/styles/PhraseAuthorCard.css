@@ -1,0 +1,8 @@
+.card__author {
+    font-weight: 500;
+    line-height: 1.5;
+    font-size: 1.1rem;
+    color: white;
+    font-style: italic;
+    padding-top: 1.5em;
+}
