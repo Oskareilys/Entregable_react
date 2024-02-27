@@ -1,8 +1,8 @@
 import './styles/PhraseAuthorCard.css'
 
-const PhraseAuthorCard = ({ authorRandom }) => {
+const PhraseAuthorCard = ({ phraseRandom }) => {
     
-    const { author } = authorRandom
+    const { author } = phraseRandom
 
   return (
     <p className='card__author'>{author}</p>

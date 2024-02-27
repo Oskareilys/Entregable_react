@@ -6,7 +6,7 @@
     padding: 0.6em 1.2em;
     font-size: 1.1rem;
     border-radius: 0.7em;
-    font-weight: 400;
+    font-weight: 550;
     border: 0.1em solid rgb(148, 68, 11);
     transition: transform 100ms ease;
     display: flex;
@@ -17,8 +17,8 @@
 
 .card__btn:hover{
     transform: scale(1.05);
-    box-shadow: 0 0 1em #0004;
-    background-color: black;
+    box-shadow: 0 0 3em rgba(0, 0, 0, 0.441);
+    background-color: transparent;
     color: whitesmoke;
 }
 
